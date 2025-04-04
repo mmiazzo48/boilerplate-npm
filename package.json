@@ -1,5 +1,6 @@
 {
 	"author": "Mariano Miazzo",
+	"description": "Proyecto bootcamp pp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
